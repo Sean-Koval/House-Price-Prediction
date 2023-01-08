@@ -1,2 +1,5 @@
-# house_price_prediction
-Data science project exploring feature engineering for house price prediction.
+# Home Price Prediction
+
+Project repository for MIDS W207 final project
+
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
